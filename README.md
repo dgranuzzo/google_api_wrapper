@@ -1,2 +1,6 @@
 # google_api_wrapper
-wrapper to google api products
+Simple python wrapper to google api products
+
+- Gmail
+
+- Firebase
